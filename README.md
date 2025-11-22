@@ -114,6 +114,11 @@ E2E tests (using **Cypress** or similar tools) verify the entire CRUD workflow f
 
 ---
 
-## 📸 Screenshots (Optional but Recommended)
+## 📸 Screenshots 
 
-*(You would insert actual images of your application here.)*
+
+<img width="1021" height="581" alt="UPDATE ENTRY png" src="https://github.com/user-attachments/assets/96f7b76a-3942-4277-8931-3ed394f813fb" />
+<img width="866" height="611" alt="DELETE ENTRY png" src="https://github.com/user-attachments/assets/f45952dd-3c95-47d5-9e0f-7db41912ca49" />
+<img width="786" height="369" alt="READ ALL ENTRIES png" src="https://github.com/user-attachments/assets/daf401cf-a594-4e12-8ad4-505b5599383b" />
+<img width="591" height="289" alt="CREATE ENTRY png" src="https://github.com/user-attachments/assets/b1304d38-33ee-41b8-99fa-1bf604e00b8a" />
+<img width="690" height="288" alt="EXIT png" src="https://github.com/user-attachments/assets/34d97a08-e2c4-4627-b106-3f91a9f341ce" />
